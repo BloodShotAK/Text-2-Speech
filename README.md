@@ -4,4 +4,4 @@ Instead of typing there are some icons which shows some daily life needs by give
 You can read about it from here https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
 
 ## Demo link 
-https://text-2-speech-app.herokuapp.com/
+https://bloodshotak.github.io/Text-2-Speech/
